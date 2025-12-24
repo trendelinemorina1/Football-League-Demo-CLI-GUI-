@@ -1,0 +1,4 @@
+# This project uses only Python standard library modules (sqlite3, tkinter, etc.).
+# No external packages are required.
+
+
